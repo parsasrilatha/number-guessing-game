@@ -29,20 +29,34 @@ java -jar numberguessgame.jar
 Sample output:
 C:\Users\srilatha\Desktop\assign>java -jar numberguessgame.jar
 *******  Welcome to Number Guess Game *********
+
 Computer: Are you ready to play game?. If you are ready, type - ready
+
 ready
+
 Computer: Is the number 50?
-lower
+
+
+
 User: lower
+
 Computer: Is the number 24?
-higher
+
+
+
 User: higher
+
 Computer: Is the number 37?
-lower
+
+
 User: lower
+
 Computer: Is the number 30?
-yes
+
+
+
 User: yes
+
 Computer : I have guessed your number successfully in 4 attempts.
 
 
